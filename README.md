@@ -12,8 +12,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ThailaSchmidt&theme=dracula&hide_border=false&include_all_commits=true" width= "49%" alt="Github Stats"/>
 
 
-<p align="left" padding-top= 10px;>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXSntfgZZNrQGHShjGMTSzWKPMLRFfJqZMmtqxGxmVNFvGxxGsQHwMZpqQHZzZJKXChXr" title="Gmail" style="text-decoration: none;">
+<p align="left">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXSntfgZZNrQGHShjGMTSzWKPMLRFfJqZMmtqxGxmVNFvGxxGsQHwMZpqQHZzZJKXChXr" title="Gmail" style="text-decoration: none;"  padding-top= 10px;>
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/thaila-schmidt-39a2301b2/" title="LinkedIn" style="text-decoration: none;">
