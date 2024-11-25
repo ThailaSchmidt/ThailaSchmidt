@@ -1,19 +1,20 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!-- Estatísticas lado a lado -->
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThailaSchmidt&theme=dracula&hide_border=false&include_all_commits=true" alt="Github Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%"/>
-</div>
+<p align="left"> 
+    Computer Science 
+</p>
 
-<!-- Streak centralizado e ajustado -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThailaSchmidt&theme=dracula&hide_border=false" alt="Github Streak" width="1000px"/>
-</div>
+<p align="left">
+  🦄 Linguagens: Python, C, PHP, Java, JavaScript, HTML, CSS.
+</p>
 
-<!-- Instagram no canto -->
-<div align="left">
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox?compose=jrjtXSntfgZZNrQGHShjGMTSzWKPMLRFfJqZMmtqxGxmVNFvGxxGsQHwMZpqQHZzZJKXChXr" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaila-schmidt-39a2301b2/" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/qr/YJ7W4ANX3DT7J1" alt="WhatsApp"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/t.hailx/" alt="Instagram"/></a>
+</p>
