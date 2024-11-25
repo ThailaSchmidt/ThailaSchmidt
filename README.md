@@ -2,8 +2,8 @@
 
 <!-- Estatísticas lado a lado -->
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThailaSchmidt&theme=dracula&hide_border=false&include_all_commits=true" alt="Github Stats" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThailaSchmidt&theme=dracula&hide_border=false&include_all_commits=true" alt="Github Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%"/>
 </div>
 
 <!-- Streak centralizado e ajustado -->
