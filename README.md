@@ -3,7 +3,9 @@
 
 <p align="left"> 
     🦋 Ciência da Computação - UFFS
-    🦋 Técnico em Iformática - IFFar
+</p>
+<p align="left">    
+    🦋 Técnico em Informática - IFFar
 </p>
 
 <p align="left">
