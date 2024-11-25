@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: flex-start; gap: 10px;">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="45%" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="45%" align="right" margin="10px">
 
 <p align="left"> 
     🦋 Ciência da Computação - UFFS
@@ -24,7 +24,7 @@
   <a href="https://wa.me/qr/YJ7W4ANX3DT7J1" title="WhatsApp" text-decoration= "none" >
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://www.instagram.com/t.hailx/" title="Instagram" text-decoration= "none" >
+  <a href="https://www.instagram.com/t.hailx/" title="Instagram" text-decoration= "none">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
