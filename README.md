@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="45%" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="45%" align="right">
 
 <p align="left"> 
     🦋 Ciência da Computação - UFFS
@@ -9,7 +9,7 @@
   🌹 Linguagens: Python, C, PHP, Java, JavaScript, HTML, CSS.
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ThailaSchmidt&theme=dracula&hide_border=false&include_all_commits=true" style="width: 49%" alt="Github Stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ThailaSchmidt&theme=dracula&hide_border=false&include_all_commits=true" width= "49%" alt="Github Stats"/>
 
 
 <p align="left">
