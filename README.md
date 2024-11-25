@@ -11,8 +11,8 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ThailaSchmidt&theme=dracula&hide_border=false&include_all_commits=true" width= "49%" alt="Github Stats"/>
 
-
-<p align="left" margin-top="10px">
+<br><br>
+<p align="left">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXSntfgZZNrQGHShjGMTSzWKPMLRFfJqZMmtqxGxmVNFvGxxGsQHwMZpqQHZzZJKXChXr" title="Gmail" text-decoration= "none">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
