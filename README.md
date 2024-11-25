@@ -14,7 +14,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ThailaSchmidt&theme=midnight-purple&hide_border=false&include_all_commits=true" width= "49%"  style="margin-bottom: 10px;" alt="Github Stats"/>
 
-<p align="left">
+<p align="right">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXSntfgZZNrQGHShjGMTSzWKPMLRFfJqZMmtqxGxmVNFvGxxGsQHwMZpqQHZzZJKXChXr" title="Gmail" text-decoration= "none">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -23,6 +23,9 @@
   </a>
   <a href="https://wa.me/qr/YJ7W4ANX3DT7J1" title="WhatsApp" text-decoration= "none" >
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.instagram.com/t.hailx/" title="Instagram" text-decoration= "none">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.instagram.com/t.hailx/" title="Instagram" text-decoration= "none">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
