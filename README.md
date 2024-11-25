@@ -12,7 +12,7 @@
   🌹 Linguagens: Python, C, PHP, Java, JavaScript, HTML, CSS.
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ThailaSchmidt&theme=midnight-purple&hide_border=false&include_all_commits=true" width= "49%"  style="margin-bottom: 10px;" alt="Github Stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
 
 <p align="right">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXSntfgZZNrQGHShjGMTSzWKPMLRFfJqZMmtqxGxmVNFvGxxGsQHwMZpqQHZzZJKXChXr" title="Gmail" text-decoration= "none">
