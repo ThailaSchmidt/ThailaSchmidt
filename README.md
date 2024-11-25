@@ -27,9 +27,6 @@
   <a href="https://www.instagram.com/t.hailx/" title="Instagram" text-decoration= "none">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.instagram.com/t.hailx/" title="Instagram" text-decoration= "none">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
 </p>
 
 
