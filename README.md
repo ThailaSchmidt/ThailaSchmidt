@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🌹 Linguagens: Python, C, PHP, Java, JavaScript, HTML, CSS.
+  🌹 Linguagens: Python, C, PHP, JavaScript, HTML, CSS.
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" width="50%"/>
